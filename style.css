@@ -11,12 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #212121;
-}
-
-footer{
-    position: fixed;
-    bottom: 10px;
+    background-color: black;
 }
 
 .container {
