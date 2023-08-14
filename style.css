@@ -14,6 +14,11 @@ body {
     background-color: #212121;
 }
 
+footer{
+    position: fixed;
+    bottom: 10px;
+}
+
 .container {
     position: relative;
 }
